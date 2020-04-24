@@ -1,16 +1,16 @@
 {
   "name": "@vtrushin/helpers",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "author": "Vlad Trushin",
   "description": "Helpers",
-  "homepage": "https://github.com/vtrushin/helpers",
-  "repository": "vtrushin/helpers",
+  "repository": "https://github.com/vtrushin/helpers",
   "scripts": {
     "test": "jest"
   },
+  "types": "types/index.d.ts",
   "devDependencies": {
-    "@types/jest": "^24.0.15",
-    "jest": "^24.8.0"
+    "@types/jest": "^25.2.1",
+    "jest": "^25.4.0"
   },
   "bugs": {
     "url": "https://github.com/vtrushin/helpers/issues"
